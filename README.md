@@ -17,7 +17,7 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/sakuraine)
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=sakuraine&hide_border=true)
 
 ## Connect
 
