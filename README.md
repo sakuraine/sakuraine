@@ -23,3 +23,9 @@
 
 [![Blog](https://img.shields.io/badge/-sakuraine.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://sakuraine.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakuraine)
+
+改变人生的事情，你必须冒险。
+
+意义非凡的事情，大多碰巧发生。
+
+不重要的事，才有周全的计划。
