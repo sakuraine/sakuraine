@@ -24,8 +24,4 @@
 [![Blog](https://img.shields.io/badge/-sakuraine.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://sakuraine.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakuraine)
 
-To change your life, you must take risks.
-
-Most significant things happen by chance.
-
-Unimportant things require meticulous planning.
+  "people with very high expectations have very low resilience, and unfortunately resilience matters in success. I don't know how to teach it to you except for I hope suffering happens to you, and greatness is not intelligence as you know, greatness comes from character and character isn't formed out of smart people, it's formed out of people who suffered, and so if I could if I could wish upon you, I don't know how to do it but you know for all of you, I wish upon you know ample doses of pain and suffering"
